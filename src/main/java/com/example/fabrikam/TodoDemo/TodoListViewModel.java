@@ -1,8 +1,7 @@
 package com.example.fabrikam.TodoDemo;
 
-import java.util.ArrayList;
-
 import javax.validation.Valid;
+import java.util.ArrayList;
 
 public class TodoListViewModel {
 
